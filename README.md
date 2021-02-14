@@ -3,7 +3,7 @@ Coding | Robotics | Gaming
 
 ![alt text](cover.jpg)
 <p align="center">
-  <b><i>My Socials</i></b>
+  <b><u>My Socials</u></b>
 
 [<img height="30" src = "https://img.shields.io/badge/-My%20YouTube%20Channel-red">][My Youtube Channel] 
 [<img height="30" src="https://img.shields.io/badge/-Roblox%20Profile-grey" />][Roblox Profile]
@@ -15,7 +15,7 @@ Coding | Robotics | Gaming
 <hr />
 
 
-<<h2> About Me 😀</h2>
+<h2> About Me 😀</h2>
 
 <h3>Currently, my sub goal is 1k subs!</h3>
 
